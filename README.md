@@ -25,7 +25,7 @@ python mutation_rate muation_rate.py
 ## DATA
 
 This work therefore collected 13,396,972 whole genome sequences of SARS-CoV-2 from GISAID (https://gisaid.org/)
-![](fig/fig1.jpg)
+![](fig/fig1_new.png)
 
 <center>Figure 2. The sequence number of different areas or countries.</center>
 
